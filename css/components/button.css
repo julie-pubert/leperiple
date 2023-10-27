@@ -1,0 +1,12 @@
+.btn-green {
+	background-color: rgb(1,170,4);
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4%;
+	font-weight: lighter;
+	font-family: 'Titan One', display;
+}
+
+.btn-green:hover {
+	background-color: orange;
+	color: white;
